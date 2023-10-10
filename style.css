@@ -1,0 +1,18 @@
+
+body{
+    background-image: url('https://images.pexels.com/photos/7909840/pexels-photo-7909840.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+  
+}
+
+   
+   
+  .btn{
+    margin: 320px auto;
+
+    font-size: 60px;
+    
+    color: white;
+}
